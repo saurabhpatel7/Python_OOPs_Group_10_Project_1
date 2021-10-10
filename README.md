@@ -2,7 +2,7 @@
 Python OOPs Project 1
 
 
-## Contributors List and Summary
+## Contributors List 
 
 |PS No. |  Name   | 
 |:---:|:---:|
