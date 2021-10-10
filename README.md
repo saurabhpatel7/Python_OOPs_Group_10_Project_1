@@ -5,7 +5,7 @@ Python OOPs Project 1
 ## Contributors List and Summary
 
 |PS No. |  Name   | 
-|:---:|:---:|:---:|
+|:---:|:---:|
 | 40018831 | Chandaka Sai Nikitha |  
 | 40018870 | Tejaswini M D |   
 | 40018819 | Adilakshmi Pulluri |   
